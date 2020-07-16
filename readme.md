@@ -77,10 +77,12 @@ python evaluate.py
 ## Citation
 If you find our work helpful, please consider citing:
 ```
-@article{tian2020eccv,
-  title={Shape Prior Deformation for Categorical 6D Object Pose and Size Estimation},
-  author={Tian, Meng and Ang Jr, Marcelo H and Lee, Gim Hee},
-  year={2020}
+@InProceedings{Tian_2020_ECCV,
+  author = {Tian, Meng and Ang Jr, Marcelo H and Lee, Gim Hee},
+  title = {Shape Prior Deformation for Categorical 6D Object Pose and Size Estimation},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  month = {August},
+  year = {2020}
 }
 ```
 
