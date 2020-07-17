@@ -3,7 +3,7 @@
 
 ## Overview
 This repository contains the PyTorch implementation of the paper "Shape Prior Deformation for Categorical 6D Object Pose and Size Estimation"
-([arXiv](http://arxiv.org)).
+([arXiv](http://arxiv.org/abs/2007.08454)).
 Our approach could recover the 6D pose and size of unseen objects from an RGB-D image, as well as reconstruct their complete 3D models.
 
 ## Dependencies
